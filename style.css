@@ -1,0 +1,14 @@
+#show_sketch {
+    float: right;
+}
+
+canvas {
+    border-style: solid;
+    border-color: black;
+    margin-top: 160px;
+    background-color: white;
+}
+
+body {
+    background-color: lightgreen;
+}
